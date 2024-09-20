@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Rocket"
 include(":sample")
+include(":rocket")
