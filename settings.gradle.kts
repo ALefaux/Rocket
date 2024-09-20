@@ -14,5 +14,8 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "Rocket"
+// Apps
 include(":sample")
+
+// Modules
 include(":rocket")
