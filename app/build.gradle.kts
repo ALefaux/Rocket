@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "fr.alefaux.rocket.sample"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "fr.alefaux.rocket.sample"
